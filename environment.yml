@@ -13,3 +13,4 @@ dependencies:
         - langchain
         - langchain_openai
         - langchain_experimental
+        - "langserve[all]"
